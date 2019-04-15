@@ -5,18 +5,18 @@ header-img: img/home-bg.jpg
 email: diligentyouyi@gmail.com
 description: ""
 keyword: ""
-url: "http://easa.io"              # your host, for absolute URL
+url: "https://easa.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     游逸
-zhihu_username:     游逸
+weibo_username:     youyi666
+zhihu_username:     youyi
 github_username:    youyisg
 #twitter_username:  huxpro
-facebook_username:  游逸
+#facebook_username:  游逸
 
 
 
